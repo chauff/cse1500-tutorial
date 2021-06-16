@@ -1,0 +1,25 @@
+{
+    "name": "Web-Tutorial",
+    "description": "Interactive exercises for the web part of CSE1500.",
+    "repository": {
+        "url": "http://localhost/"
+    },
+    "author": "Claudia Hauff",
+    "bin": {
+        "Web-Tutorial": "./bin/Web-Tutorial"
+    },
+    "main": "./index.js",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "diff": "^4.0.2",
+        "workshopper-adventure": "^6.1.0",
+        "workshopper-hooray": "^1.1.0"
+    },
+    "devDependencies": {
+        "eslint": "^7.28.0",
+        "eslint-config-airbnb-base": "^14.2.1",
+        "eslint-plugin-import": "^2.23.4",
+        "standard": "^14.3.3",
+        "workshopper-adventure-test": "^1.2.0"
+    }
+}
