@@ -1,4 +1,4 @@
-# CSE1500 Web Tutorial
+# CSE1500 Tutorial
 
 This repository contains exercises that are in line with the [CSE1500 web transcripts](https://github.com/chauff/cse1500-web-transcripts).
 
